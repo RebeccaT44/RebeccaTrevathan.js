@@ -5,7 +5,6 @@ var Name ="Rebecca";
 Name = "Beck"
 console.log(Info, Name)
 
-
 const firstName = "Rebecca"
 const lastName = "Trevathan"
 const fullName = "Rebecca Trevathan"
